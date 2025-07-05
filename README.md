@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 About Me<br>💻 Final Year B.E. Computer Engineering @ VCET<br><br>📊 Passionate about Data Visualization, AIML, and AR Applications<br><br>🔍 Keen to explore and contribute to real-world AI-driven web platforms<br><br>🤝 Actively involved in campus initiatives as Social Media Head (Ecell) and Creative Head (Abacus)<br><br>🛠️ Tech Stack<br>👨‍💻 Languages & Frameworks<br><br><br><br><br>🌐 Web & App Dev<br><br><br><br><br>🤖 AI & ML<br><br><br>🎮 Other Tools<br><br><br>💼 Experience<br>🧪 Project Intern @ Punctuations Solutions Pvt. Ltd. (Aug 2024 - April 2025)<br>🔍 Built a Multi-Modal Analyzer for retail using facial recognition and emotion analysis<br><br>📦 Real-time product identification & customer feedback analytics using AI/ML models<br><br>🌟 Projects<br>☁️ Cloud Burst Prediction (AI/ML)<br>AI-powered website for predicting cloudbursts to provide early warnings to communities.<br><br>🏫 Virtual College Tour (AR + ML)<br>Immersive AR-based campus tour with personalized routes powered by ML.<br><br>🎓 Scholar Safari (EdTech)<br>Gamified platform to teach coding with a virtual assistant guiding users.<br><br>🏆 Achievements & Certifications<br>📜 Certified in Data Analytics (Capgemini + ICT Academy, Jan–Feb 2025)<br><br>🤖 Internship: Fire Bird V Robot Application Dev – IETE (Dec 2022)<br><br>🎨 Campus Involvement<br>📲 Social Media Head, ECell VCET<br><br>🖌 Creative Head, Abacus<br><br>💻 Web Team Member, WebXVCET<br><br>📫 Let's Connect<br>📧 nirmitipatil326@gmail.com<br><br>🌐 LinkedIn<br><br>🌍 Based in Vasai, Maharashtra, India<br><br>⭐ Thanks for stopping by! Let’s build the future with tech 🚀
 
-<!--
-**NIRMITI18/NIRMITI18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nirmiti-patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirmitipatil326@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NIRMITI18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NIRMITI18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIRMITI18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NIRMITI18&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
